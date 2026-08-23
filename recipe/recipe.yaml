@@ -1,5 +1,5 @@
 context:
-  version: "1.4.0"
+  version: "1.4.1"
 
 package:
   name: flagembedding
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/f/FlagEmbedding/flagembedding-${{ version }}.tar.gz
-    sha256: 2079c14ecf0341d64519785e53c0401122a752e5b6a0ac497f23c02f0d21b3b9
+    sha256: ed61607726b915e9e48976b23709530f2edcbbd68866f2a17d0d27e4041caaf2
 
 build:
   number: 0
